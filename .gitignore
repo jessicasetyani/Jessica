@@ -103,8 +103,8 @@ secrets.properties
 api_keys.properties
 
 # Unsplash API Key (specific to your project)
-# Uncomment if you store API key in Constant.kt
-# app/src/main/java/com/example/jessicaSW/util/Constant.kt
+# NEVER commit files with real API keys
+app/src/main/java/com/example/jessicaSW/util/Constant.kt
 
 # Task Master files
 .taskmaster/
